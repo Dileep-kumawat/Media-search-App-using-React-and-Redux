@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+.card-text{
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(transparent,black);
+}
